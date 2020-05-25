@@ -12,6 +12,15 @@
 | *Container host OS support* | Linux, macOS, Windows |
 | *Languages, platforms* | .NET Core, C# |
 
+## Deploy this build to CodeSpaces
+
+<p>
+    <a href="https://online.visualstudio.com/environments/new?name=dotnetcore&repo=roryp/dotnetcorecodespace">
+        <img src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Faka.ms%2Fvso-badge">
+    </a>
+</p>
+
+
 ## Using this definition with an existing folder
 
 While the definition itself works unmodified, there are some tips that can help you deal with some of the defaults .NET Core uses.
