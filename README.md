@@ -12,6 +12,11 @@
 | *Container host OS support* | Linux, macOS, Windows |
 | *Languages, platforms* | .NET Core, C# |
 
+##trigger this build
+
+[Create in VScode Codespaces](https://online.visualstudio.com/environments/new?name=dotnetcore&repo=roryp/dotnetcorecodespace)
+
+
 ## Using this definition with an existing folder
 
 While the definition itself works unmodified, there are some tips that can help you deal with some of the defaults .NET Core uses.
