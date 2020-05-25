@@ -12,7 +12,7 @@
 | *Container host OS support* | Linux, macOS, Windows |
 | *Languages, platforms* | .NET Core, C# |
 
-## Deploy this build to CodeSpaces##
+## Deploy this build to CodeSpaces
 
 <p>
     <a href="https://online.visualstudio.com/environments/new?name=dotnetcore&repo=roryp/dotnetcorecodespace">
